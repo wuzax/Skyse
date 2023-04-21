@@ -14,7 +14,7 @@ const client = new Client({
 })
 
 client.on("ready", () => {
-    console.log(`${client.user.tag} est désormais pas ligne !`)
+    console.log(`${client.user.tag} est désormais en ligne !`)
 })
 
 client.login(process.env.TOKEN)
