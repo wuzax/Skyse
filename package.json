@@ -1,0 +1,23 @@
+{
+  "name": "skyse",
+  "version": "0.0.1",
+  "description": "un bot multifonction open-source",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuzax/Skyse.git"
+  },
+  "author": "Wuzax_#3061",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuzax/Skyse/issues"
+  },
+  "homepage": "https://github.com/wuzax/Skyse#readme",
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3"
+  }
+}
